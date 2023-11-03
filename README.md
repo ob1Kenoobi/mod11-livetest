@@ -1,16 +1,34 @@
 # mod11_livetest
 
-A new Flutter project.
+Parse the provided JSON string to extract weather information. Display the information for all five cities.
 
-## Getting Started
+# Weather App
 
-This project is a starting point for a Flutter application.
+## Description
+The Weather App is a simple Flutter application that displays weather information for five cities: New York, Los Angeles, London, Tokyo, and Sydney. The weather data is provided in JSON format and is parsed and displayed in a user-friendly way.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Display weather information for five cities.
+- Show temperature, weather condition, humidity, and wind speed for each city.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+- When you run the app, it will load the weather data from the provided JSON file and display it in a list view.
+- You can scroll through the list to see the weather information for each city.
+
+## Screenshots
+![Screenshot_1699032048](https://github.com/ob1Kenoobi/mod11-livetest/assets/140194680/bbc381dc-2048-4f40-8d5d-7c45b4ee527e)
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Submit a pull request to the `main` branch of this repository.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to customize and expand this README file to provide more information about your specific project and its usage.
+
+
